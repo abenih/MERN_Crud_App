@@ -1,0 +1,39 @@
+.App{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#0059bf ;
+}
+input{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    margin: 5px;
+}
+button{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    margin: 5px;
+    background-color:#011f44
+}
+.food{
+    background-color:#ffce4e ;
+    width: 500px;
+    height: 250px;
+    border: 2px ;
+    margin:10px;
+    border-radius: 50px;
+}
+button,
+h1,
+label{
+   color: white;
+   border-radius: 50px;
+}
+button{
+    width: 120px;
+
+}
